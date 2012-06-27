@@ -1,13 +1,15 @@
--*- coding: euc-jp-unix -*-
-SKK�ѤΥ��˥Ἥ��Ǥ���
+SKK用のアニメ辞書です。
 
-�Ȥ���
-��SKK��ɬ�פǤ���
-��Ŭ�ڤʤȤ��������֤����������ե�������ɤ߹��ޤ��뤳�Ȥˤ��ư��ޤ���
-���Ȥ�����ʬ����ʤ���硢�����ʤɤ�Ĵ�٤Ƥ���������
+使い方
+・SKKが必要です。
+・適切なところに配置し、初期設定ファイルで読み込ませることにより動作します。
+・使い方が分からない場合、検索などで調べてください。
 
-�Խ����ɲäʤ�
-���Խ����ɲäʤɤ���������GitHub���ե��������Ƥ���������Pull Request������м��դ��ޤ���
-��ʸ��������������euc-jp-unix�Ȥ��Ƥ���������
+編集、追加など
+・編集や追加などしたい方はGitHubよりフォークしてください。Pull Requestがあれば受付けます。
+・文字コード方式はeuc-jp-unixとしてください。
+・Daredevil SKK（http://openlab.ring.gr.jp/skk/index-j.html）の最新版及びそれが動作するEmacs上で動作することを確認してください。
 
-
+Local variables:
+coding: utf-8-unix
+End:
