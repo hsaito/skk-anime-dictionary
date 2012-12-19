@@ -1,15 +1,17 @@
 SKK用のアニメ辞書です。
 
-使い方
-・SKKが必要です。
-・適切なところに配置し、初期設定ファイルで読み込ませることにより動作します。
-・使い方が分からない場合、検索などで調べてください。
+* 使い方
+- SKKが必要です。
+- 適切なところに配置し、初期設定ファイルで読み込ませることにより動作します。
+- 使い方が分からない場合、検索などで調べてください。
 
-編集、追加など
-・編集や追加などしたい方はGitHubよりフォークしてください。Pull Requestがあれば受付けます。
-・文字コード方式はeuc-jp-unixとしてください。
-・Daredevil SKK（ http://openlab.ring.gr.jp/skk/index-j.html ）の最新版及びそれが動作するEmacs上で動作することを確認してください。
+* 編集、追加など
+- 編集や追加などしたい方はGitHubよりフォークしてください。Pull Requestがあれば受付けます。
+- 文字コード方式はeuc-jp-unixとしてください。
+  - Gitの自動CRLF変換が実施されると挙動がおかしくなる場合あります。git config core.autocrlf falseとして自動改行コード変換をオフにしてください。
+- Daredevil SKK（ http://openlab.ring.gr.jp/skk/index-j.html ）の最新版及びそれが動作するEmacs上で動作することを確認してください。
 
 Local variables:
 coding: utf-8-unix
+mode: org
 End:
