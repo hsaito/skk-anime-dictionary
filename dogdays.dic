@@ -1,9 +1,12 @@
 ;; -*- coding: euc-jp-unix; mode: skk-jisyo-edit -*-
-;; アニメ「Dog Days」辞書 Version 20121218WIP
+;; アニメ「Dog Days」辞書
 ;;
 ;; 参考サイト
 ;; http://www.dogdays.tv/
 ;; htts://ja.wikipedia.org/wiki/DOG_DAYS
+;; 
+;; Status: Work in Progress
+;;
 
 ;; okuri-ari entries.
 ;; okuri-nasi entries.

@@ -1,9 +1,12 @@
 ;; -*- coding: euc-jp-unix; mode: skk-jisyo-edit -*-
-;; アニメ「日常」辞書 Version 20121220
+;; アニメ「日常」辞書
 ;;
 ;; 参考サイト
 ;; http://www.shinonome-lab.com/
 ;; http://ja.wikipedia.org/wiki/%E6%97%A5%E5%B8%B8_(%E6%BC%AB%E7%94%BB)
+;;
+;; Status: Complete
+;; 
 
 ;; okuri-ari entries.
 ;; okuri-nasi entries.

@@ -1,10 +1,12 @@
 ;; -*- coding: euc-jp-unix; mode: skk-jisyo-edit -*-
-;; アニメ「ガールズ&パンツァー」辞書 Version 20121218WIP
+;; アニメ「ガールズ&パンツァー」辞書
 ;;
 ;; 参考サイト
 ;; http://girls-und-panzer.jp/
 ;; https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%26%E3%83%91%E3%83%B3%E3%83%84%E3%82%A1%E3%83%BC
-
+;;
+;; Status: Work in Progress
+;;
 
 ;; okuri-ari entries.
 ;; okuri-nasi entries.

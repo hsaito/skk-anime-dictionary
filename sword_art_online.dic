@@ -1,11 +1,13 @@
 ;; -*- coding: euc-jp-unix; mode: skk-jisyo-edit -*-
-;; アニメ「ソード・アート・オンライン」辞書 Version 20121229WIP
+;; アニメ「ソード・アート・オンライン」辞書
 ;;
 ;; 参考サイト
 ;; http://www.swordart-online.net/
 ;; http://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3
 ;; アバター英名表記に関しては一部英語版Wikipedia記事も参照(ほぼアニメ版を踏襲していると思われる)
 ;; http://en.wikipedia.org/wiki/List_of_Sword_Art_Online_characters
+;;
+;; Status: Work in Progress
 ;;
 
 ;; okuri-ari entries.
