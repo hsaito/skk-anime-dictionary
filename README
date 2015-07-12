@@ -11,6 +11,10 @@ SKK用のアニメ辞書です。
   - Gitの自動CRLF変換が実施されると挙動がおかしくなる場合あります。git config core.autocrlf falseとして自動改行コード変換をオフにしてください。
 - Daredevil SKK（ http://openlab.ring.gr.jp/skk/index-j.html ）の最新版及びそれが動作するEmacs上で動作することを確認してください。
 
+* ライセンス
+Creative Commons Attribution 4.0 International (CC BY 4.0)とします。
+https://creativecommons.org/licenses/by/4.0/
+
 Local variables:
 coding: utf-8-unix
 mode: org
