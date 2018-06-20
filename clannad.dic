@@ -1,7 +1,7 @@
-;; -*- coding: euc-jp-unix; mode: skk-jisyo-edit -*-
-;; Clannad����
+;; -*- coding: utf-8-unix; mode: skk-jisyo-edit -*-
+;; Clannad辞書
 ;;
-;; ���ͥ�����
+;; 参考サイト
 ;; http://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)
 ;; 
 ;;
@@ -11,84 +11,84 @@
 ;; okuri-ari entries.
 ;; okuri-nasi entries.
 
-;; ��̾
-����ʤ� /����ʥ�;[���˥�]Clannad,�����ȥ�(��������ɽ��)/Clannad;[���˥�]Clannad,�����ȥ�(����ե��٥å�ɽ��)/
+;; 題名
+くらなど /クラナド;[アニメ]Clannad,タイトル(カタカナ表記)/Clannad;[アニメ]Clannad,タイトル(アルファベット表記)/
 
-;; ���åꥹ��
-������ޤ����뤵���ߤ��� /���񤤻����ƻ��;Clannad,��1��/
-��������Τ��ä� /�ǽ�ΰ���;Clannad,��2��/
-�ʤߤ��Τ��Ȥˤ⤦������ /�ޤΤ��Ȥˤ⤦����;Clannad,��3��/
-�ʤ��ޤ򤵤����� /��֤򤵤�����;Clannad,��4��/
-���礦�����Τ���դ����� /Ħ��Τ�������;Clannad,��5��/
-���ͤȤ��⤦�ȤΤ�����Ĥ��㤵�� /�Ф������Ω�Ժ�;Clannad,��6��/
-�ۤ������Τ���� /�����ε�����;Clannad,��7��/
-��������ˤ����뤫�� /�����˾ä�����;Clannad,��8��/
-���Τ������ޤ� /̴�κǸ�ޤ�;Clannad,��9��/
-�Ƥ󤵤����礦����Τ��礦���� /ŷ�;�����ĩ��;Clannad,��10��/
-�ۤ������Τ��礦�������礯 /���ݸ�ζ��۶�;Clannad,��11��/
-�������줿������ /�������줿����;Clannad,��12��/
-���⤤�ǤΤˤ�� /�פ��Ф�����;Clannad,��13��/
-�����꡼���֤��֤ꤷ�� /Theory of Everything;Clannad,��14��/
-���ޤä������� /���ä�����;Clannad,��15��/
-���꡼���󤹤꡼ /3 on 3;Clannad,��16��/
-�դ����Τ������� /�Ժߤζ���;Clannad,��17��/
-���㤯�Ƥ�ΤҤ��� /��ž�����;Clannad,��18��/
-�����餷���������� /����������;Clannad,��19��/
-�Ҥ��줿���� /����줿���;Clannad,��20��/
-�������󤵤��ˤऱ�� /�ر�פˤऱ��;Clannad,��21��/
-�����դ��� /�����;Clannad,�ǽ���/
-�ʤĤ䤹�ߤΤǤ����� /�Ƶ٤ߤν����;Clannad,�ֳ���/
-�⤦�ҤȤĤΤ������Ȥ��ؤ� /�⤦�ҤȤĤ����� ������;Clannad,�ֳ���/
+;; 各話リスト
+さくらまいちるさかみちで /桜舞い散る坂道で;Clannad,第1話/
+さいしょのいっぽ /最初の一歩;Clannad,第2話/
+なみだのあとにもういちど /涙のあとにもう一度;Clannad,第3話/
+なかまをさがそう /仲間をさがそう;Clannad,第4話/
+ちょうこくのあるふうけい /彫刻のある風景;Clannad,第5話/
+あねといもうとのそうりつしゃさい /姉と妹の創立者祭;Clannad,第6話/
+ほしがたのきもち /星型の気持ち;Clannad,第7話/
+たそがれにきえるかぜ /黄昏に消える風;Clannad,第8話/
+ゆめのさいごまで /夢の最後まで;Clannad,第9話/
+てんさいしょうじょのちょうせん /天才少女の挑戦;Clannad,第10話/
+ほうかごのきょうそうきょく /放課後の狂想曲;Clannad,第11話/
+かくされたせかい /かくされた世界;Clannad,第12話/
+おもいでのにわを /思い出の庭を;Clannad,第13話/
+せおりーおぶえぶりしんぐ /Theory of Everything;Clannad,第14話/
+こまったもんだい /困った問題;Clannad,第15話/
+すりーおんすりー /3 on 3;Clannad,第16話/
+ふざいのくうかん /不在の空間;Clannad,第17話/
+ぎゃくてんのひさく /逆転の秘策;Clannad,第18話/
+あたらしいせいかつ /新しい生活;Clannad,第19話/
+ひめられたかこ /秘められた過去;Clannad,第20話/
+がくえんさいにむけて /学園祭にむけて;Clannad,第21話/
+かげふたつ /影二つ;Clannad,最終回/
+なつやすみのできごと /夏休みの出来事;Clannad,番外編/
+もうひとつのせかいともよへん /もうひとつの世界 智代編;Clannad,番外編/
 ;;; AS
-�ʤĤΤ����Τ���ʤ� /�Ƥν����Υ���ʥ�;Clannad AS,��1��/
-���Ĥ��Τ����򤵤����� /���Ĥ��ΰ��򤵤�����;Clannad AS,��2��/
-��������������� /�����������;Clannad AS,��3��/
-���ΤҤȤ��ʤ��������� /��������Ʊ���д��;Clannad AS,��4��/
-���ߤΤ��������� /���Τ�������;Clannad AS,��5��/
-���äȤ��ʤ��Τ��Ф� /���äȤ��ʤ��Τ��Ф�;Clannad AS,��6��/
-���Τ���Τ��Ф��� /����ε���;Clannad AS,��7��/
-�椦�����뤿������ /ͦ������Ʈ��;Clannad AS,��8��/
-�����ߤ��ΤȤ��夦 /��ƻ������;Clannad AS,��9��/
-�Ϥ��ޤ�Τ����� /�Ϥޤ�ε���;Clannad AS,��10��/
-�䤯�����Τ�����Ĥ��㤵�� /��«����Ω�Ժ�;Clannad AS,��11��/
-�ȤĤ���ΤǤ����� /�����ν����;Clannad AS,��12��/
-���Ĥ��礦 /´��;Clannad AS,��13��/
-�����餷�������� /��������²;Clannad AS,��14��/
-�ʤĤΤʤ���� /�Ƥ�̾�Ĥ��;Clannad AS,��15��/
-��������� /�򤤰�;Clannad AS,��16��/
-�ʤĤ����� /�ƻ���;Clannad AS,��17��/
-�������ΤϤ� /���Ϥβ̤�;Clannad AS,��18��/
-������ /��ϩ;Clannad AS,��19��/
-���������Τ����� /�����ε���;Clannad AS,��20��/
-�������Τ���� /�����ν����;Clannad AS,��21��/
-�������ʤƤΤҤ� /�����ʼ�ΤҤ�;Clannad AS,�ǽ���/
-�����ͤ�ޤ��ΤǤ����� /��ǯ���ν����;Clannad AS,�ֳ���/
-�⤦�ҤȤĤΤ��������礦�ؤ� /�⤦�ҤȤĤ����� ����;Clannad AS,�ֳ���/
-�ߤɤ�Τ��Τ����� /�Фμ��β���;Clannad AS,������/
+なつのおわりのさよなら /夏の終わりのサヨナラ;Clannad AS,第1話/
+いつわりのあいをさがして /いつわりの愛をさがして;Clannad AS,第2話/
+すれちがうこころ /すれちがう心;Clannad AS,第3話/
+あのひとおなじえがおで /あの日と同じ笑顔で;Clannad AS,第4話/
+きみのいたきせつ /君のいた季節;Clannad AS,第5話/
+ずっとあなたのそばに /ずっとあなたのそばに;Clannad AS,第6話/
+かのじょのいばしょ /彼女の居場所;Clannad AS,第7話/
+ゆうきあるたたかい /勇気ある闘い;Clannad AS,第8話/
+さかみちのとちゅう /坂道の途中;Clannad AS,第9話/
+はじまりのきせつ /始まりの季節;Clannad AS,第10話/
+やくそくのそうりつしゃさい /約束の創立者祭;Clannad AS,第11話/
+とつぜんのできごと /突然の出来事;Clannad AS,第12話/
+そつぎょう /卒業;Clannad AS,第13話/
+あたらしいかぞく /新しい家族;Clannad AS,第14話/
+なつのなごりに /夏の名残りに;Clannad AS,第15話/
+しろいやみ /白い闇;Clannad AS,第16話/
+なつじかん /夏時間;Clannad AS,第17話/
+だいちのはて /大地の果て;Clannad AS,第18話/
+いえじ /家路;Clannad AS,第19話/
+しおかぜのたわむれ /汐風の戯れ;Clannad AS,第20話/
+せかいのおわり /世界の終わり;Clannad AS,第21話/
+ちいさなてのひら /小さな手のひら;Clannad AS,最終回/
+いちねんまえのできごと /一年前の出来事;Clannad AS,番外編/
+もうひとつのせかいきょうへん /もうひとつの世界 杏編;Clannad AS,番外編/
+みどりのきのしたで /緑の樹の下で;Clannad AS,総集編/
 
-;; �о��ʪ
-���������Ȥ�� /��������;Clannad,�о��ʪ/
-�դ뤫��ʤ��� /�ŲϽ�;Clannad,�о��ʪ/
-�դ��Ф䤷���礦 /ƣ�Ӱ�;Clannad,�о��ʪ/
-�����Τ����Ȥ� /��������Ȥ�;Clannad,�о��ʪ/
-�������ߤȤ�� /�������;Clannad,�о��ʪ/
-���֤��դ��� /�˿�����;Clannad,�о��ʪ/
-�ߤ䤶��椭�� /����ͭ��ǫ;Clannad,�о��ʪ/
-�դ��Ф䤷��礦 /ƣ��̺;Clannad,�о��ʪ/
-���ΤϤ�褦�ؤ� /�ո���ʿ;Clannad,�о��ʪ/
-������ߤ��� /���������;Clannad,�о��ʪ/
-���ޤ��Ĥ� /������ŵ�;Clannad,�о��ʪ/
-�������Ȥ��� /��¼����;Clannad,�о��ʪ/
-���ΤϤ�ᤤ /�ո����;Clannad,�о��ʪ/
-�Ҥ��餮���äڤ� /ɢ��ʿ;Clannad,�о��ʪ/
-�դ뤫�濫���� /�ŲϽ���;Clannad,�о��ʪ/
-�դ뤫�蘆�ʤ� /�Ų�����;Clannad,�о��ʪ/
-���֤������� /�˿����;Clannad,�о��ʪ/
-�褷�Τ椦���� /˧��ʹ��;Clannad,�о��ʪ/
-���������ʤ��椭 /����ľ��;Clannad,�о��ʪ/
+;; 登場人物
+おかざきともや /岡崎朋也;Clannad,登場人物/
+ふるかわなぎさ /古河渚;Clannad,登場人物/
+ふじばやしきょう /藤林杏;Clannad,登場人物/
+いちのせことみ /一ノ瀬ことみ;Clannad,登場人物/
+さかがみともよ /坂上智代;Clannad,登場人物/
+いぶきふうこ /伊吹風子;Clannad,登場人物/
+みやざわゆきね /宮沢有紀寧;Clannad,登場人物/
+ふじばやしりょう /藤林椋;Clannad,登場人物/
+すのはらようへい /春原陽平;Clannad,登場人物/
+さがらみさえ /相楽美佐枝;Clannad,登場人物/
+しまかつき /志麻賀津紀;Clannad,登場人物/
+こうむらとしお /幸村俊夫;Clannad,登場人物/
+すのはらめい /春原芽衣;Clannad,登場人物/
+ひいらぎかっぺい /柊勝平;Clannad,登場人物/
+ふるかわあきお /古河秋夫;Clannad,登場人物/
+ふるかわさなえ /古河早苗;Clannad,登場人物/
+いぶきこうこ /伊吹公子;Clannad,登場人物/
+よしのゆうすけ /芳野祐介;Clannad,登場人物/
+おかざきなおゆき /岡崎直幸;Clannad,登場人物/
 ;;; After Story
-���������ʤ��� /�����;Clannad,�о��ʪ,�������Ų�/
-������������ /�����ǵ;Clannad,�о��ʪ/
-�������������� /���꼮;Clannad,�о��ʪ/
-�ʤ��Τ��礦���� /��ξ���;Clannad,�о��ʪ/
-���餯���Τˤ󤮤礦 /���饯���οͷ�;Clannad,�о��ʪ/
+おかざきなぎさ /岡崎渚;Clannad,登場人物,旧姓：古河/
+おかざきしの /岡崎史乃;Clannad,登場人物/
+おかざきうしお /岡崎汐;Clannad,登場人物/
+なぞのしょうじょ /謎の少女;Clannad,登場人物/
+がらくたのにんぎょう /ガラクタの人形;Clannad,登場人物/
